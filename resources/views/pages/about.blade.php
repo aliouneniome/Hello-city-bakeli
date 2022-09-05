@@ -4,10 +4,14 @@
 
 
 @section('content')
-<img src="{{ asset('/images/app_logo.png')}}" alt="KAAY LIVRE">
+<img src="{{ asset('/images/app_logo.png')}}" alt="KAAY LIVRE" class="my-12 rounded-full shadow-md">
         
-    <p>Built with &hearts; by KAAY COM.</p>
+    <h2 class="mb-5 text-gray-700">
+        Built with <span class="text-pink-500">&hearts;</span> by KAAY COM.
+    </h2>
 
-    <p><a href="/">Revenir a la page d'acceuil</a></p>
+    <p>
+        <a href="/"class="text-indigo-500 hover:text-indigo-600 underline">Revenir a la page d'acceuil</a>
+    </p>
 
 @endsection
