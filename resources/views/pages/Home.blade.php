@@ -2,6 +2,7 @@
 
 
 @section('content')
+<img src="/images/logo.png" alt="KAAY GROUPE">
     <h1>Hello from Senegal!!!</h1>
 
 

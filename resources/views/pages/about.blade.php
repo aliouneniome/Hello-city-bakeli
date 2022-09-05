@@ -4,6 +4,7 @@
 
 
 @section('content')
+<img src="/images/app_logo.png" alt="KAAY LIVRE">
         
     <p>Built with &hearts; by KAAY COM.</p>
 
